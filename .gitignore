@@ -1,2 +1,6 @@
 *.user
 excercises/*
+haskell/*.exe
+haskell/*.hs
+haskell/*.hi
+haskell/*.o
