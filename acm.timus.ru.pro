@@ -30,7 +30,8 @@ SOURCES += \
     excercises/1068_sum.cpp \
     excercises/1910_titans.cpp \
     excercises/1019_paint.cpp \
-    excercises/1639_chocolate.cpp
+    excercises/1639_chocolate.cpp \
+    excercises/1439_battle.cpp
 
 OTHER_FILES += \
     io/stdout.txt \

@@ -9,7 +9,7 @@ readD :: B.ByteString -> Double
 readD = fromInteger . fst . fromJust . B.readInteger
 
 readI :: B.ByteString -> Int
-readI = fromInteger . fst . fromJust . B.readInteger
+readI = fst . fromJust . B.readInt
 
 showD :: Double -> B.ByteString
 showD n = B.pack $ show iPart ++ '.' : fDigs

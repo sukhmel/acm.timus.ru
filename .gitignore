@@ -4,3 +4,9 @@ haskell/*.exe
 haskell/*.hs
 haskell/*.hi
 haskell/*.o
+haskell/*.aux
+haskell/*.hp
+haskell/*.prof
+haskell/*.ps
+haskell/*.txt
+haskell/*.s
